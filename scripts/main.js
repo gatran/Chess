@@ -441,7 +441,9 @@ var myChart6 = Highcharts.chart('twitch_metrics', {
         text: '<a id="source" href="https://twitchtracker.com/games/743">Source: Twitchtracker </a>'
     },
     legend: {
-        enabled: true
+        align: 'center',
+        floating: false,
+        verticalAlign: 'top'
     },  
     dataLabels: {
         enabled: true,
