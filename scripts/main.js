@@ -400,23 +400,23 @@ var myChart5 = Highcharts.chart('lichess_cc', {
         data: [{
             name: 'e4',
             y: 12586,
-            url: "./images/e4.png"
+            url: "https://github.com/gatran/gatran.github.io/blob/master/images/e4.PNG"
         }, {
             name: 'd4',
             y: 4519,
-            url: './images/d4.png'
+            url: 'https://github.com/gatran/gatran.github.io/blob/master/images/d4.PNG'
         }, {
             name: 'Nf3',
             y: 725,
-            url: './images/Nf3.png'
+            url: 'https://github.com/gatran/gatran.github.io/blob/master/images/Nf3.PNG'
         }, {
             name: 'c4',
             y: 716,
-            url: './images/c4.png'
+            url: 'https://github.com/gatran/gatran.github.io/blob/master/images/c4.PNG'
         }, {
             name: 'e3',
             y: 416,
-            url: './images/e3.png'
+            url: 'https://github.com/gatran/gatran.github.io/blob/master/images/e3.PNG'
         }]
     }]
 })
