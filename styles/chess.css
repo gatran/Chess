@@ -1,0 +1,41 @@
+* {
+    background-color: beige;
+}
+
+#Title {
+    font-size: 4em;
+    text-align: center;
+}
+
+#Clip {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 45%;
+}
+
+#Why, #lichess_datasets {
+    display: flex;
+    align-items: center;
+}
+
+#pc, #cc, #winners_pc, #lichess_cc {
+    display: table-cell;
+    width: 50%;
+    margin: 10px;
+}
+
+.Highcharts.title {
+    background-color: white;
+}
+
+#additional_sources {
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+.twitch_images {
+    width: 25%;
+    height: 400px;
+    vertical-align: middle;
+}
